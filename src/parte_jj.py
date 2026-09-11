@@ -1,0 +1,6 @@
+git
+.venv/
+_pycache_/
+.ipynb_checkpoints/
+.DS_Store
+*.csv
